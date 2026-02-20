@@ -25,10 +25,11 @@ Senior Developer and Technology Specialist with **14+ years** of experience buil
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 ### Backend & Frameworks
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Adobe Commerce](https://img.shields.io/badge/Adobe%20Commerce-F21900)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Flask & Diango](https://img.shields.io/badge/Flask%20&%20Django-3f77a7)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -103,8 +104,8 @@ Senior Developer and Technology Specialist with **14+ years** of experience buil
 
 ## 📚 Education
 
-- **Master of Computer Applications (M.C.A.)** — AVC College of Engineering, India (2009-2012)
-- **Bachelor Degree, Electrical, Electronic and Communications Science** — A.V.C. College, India (2006-2009)
+- **Master of Computer Applications (M.C.A.)** — Anna University, India (2009-2012)
+- **Bachelor Degree, Electrical, Electronic and Communications Science** — A V C COLLLEGE, India (2006-2009)
 
 ## 🌟 Core Competencies
 
