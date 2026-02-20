@@ -120,7 +120,7 @@ Senior Developer and Technology Specialist with **14+ years** of experience buil
 
 - 💼 **LinkedIn**: [balaji-kaliyaperumal-41620192](https://linkedin.com/in/balaji-kaliyaperumal-41620192)
 - 📧 **Email**: gkmbala@gmail.com
-- 📱 **Phone**: +44 7459102812
+- 📱 **Phone**: +44 **********
 - 📍 **Location**: Leeds, England, United Kingdom
 
 ---
